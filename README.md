@@ -1,4 +1,4 @@
-# 📷 QR Code Generator (Python)
+# 📷 QR Code Generator
 
 A simple and fast Python-based QR Code generator where you can paste any link directly into the terminal, and it automatically generate a QR image for you.
 
