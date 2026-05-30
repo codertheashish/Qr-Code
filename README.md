@@ -1,13 +1,7 @@
-# Qr_code
-A simple Python-based QR Code Generator that lets you paste any link directly into the terminal and instantly generates a QR image. It supports Google Drive links, websites, images, and more. The tool is lightweight, fast, and saves the output as generated_qr.png, making it ideal for quick sharing and projects.
-
----
-
 # 📷 QR Code Generator (Python)
 
 A simple and fast Python-based QR Code generator where you can paste any link directly into the terminal, and it automatically generate a QR image for you.
 
----
 
 ## 🚀 Features
 
