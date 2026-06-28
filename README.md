@@ -81,3 +81,4 @@ generated_qr.png
 
 **Ashish Kumar Prajapati**
 
+<img width="310" height="189" alt="Qrcode_Generator" src="https://github.com/user-attachments/assets/e21c77db-8b6f-4446-ae00-b8a9bdbe2739" />
