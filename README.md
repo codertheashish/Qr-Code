@@ -81,4 +81,13 @@ generated_qr.png
 
 **Ashish Kumar Prajapati**
 
-<img width="310" height="189" alt="Qrcode_Generator" src="https://github.com/user-attachments/assets/e21c77db-8b6f-4446-ae00-b8a9bdbe2739" />
+- GitHub:
+[codertheashish](https://github.com/codertheashish)
+- Linkedin :
+[codertheashish](https://www.linkedin.com/in/codertheashish/)
+- Instagram :
+[codertheashish](https://www.instagram.com/codertheashish/)
+
+---
+
+<img width="1536" height="1024" alt="Qrcode_Generator" src="https://github.com/user-attachments/assets/e21c77db-8b6f-4446-ae00-b8a9bdbe2739" />
